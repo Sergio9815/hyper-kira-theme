@@ -1,7 +1,7 @@
 {
   "name": "hyper-kira-theme",
   "description": "Material and beautiful Hyper theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "theme",
   "categories": [
     "Themes"
@@ -21,10 +21,13 @@
   ],
   "main": "index.js",
   "dateAdded": "1624239314124",
-  "license": "MIT",
   "author": {
     "name": "Sergio Gonzalez",
-    "email": "gsergio1598@gmail.com",
-    "url": "https://github.com/Sergio9815/hyper-kira-theme"
-  }
+    "email": "gsergio1598@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sergio9815/hyper-kira-theme.git"
+  },
+  "license": "MIT"
 }
