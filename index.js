@@ -1,0 +1,30 @@
+module.exports.decorateConfig = (config) => {
+  return Object.assign({}, config, {
+    cursorColor: '#57C7FF',
+    cursorShape: 'UNDERLINE',
+    cursorAccentColor: '#000000',
+    foregroundColor: '#fff',
+    backgroundColor: '#000000',
+    selectionColor: '#57C7FF',
+    borderColor: '#333',
+    fontWeightBold: 'normal',
+    colors: {
+      black: '#000000',
+      red: '#F56A79',
+      green: '#A5E1AD',
+      yellow: '#FFEDA3',
+      blue: '#000000',
+      magenta: '#F25287',
+      cyan: '#6DDCCF',
+      white: '#FFFFFF',
+      lightBlack: '#555555',
+      lightRed: '#FFEDA3',
+      lightGreen: '#9BDEAC',
+      lightYellow: '#FDFFB6',
+      lightBlue: '#57C7FF',
+      lightMagenta: '#A685E2',
+      lightCyan: '#57C7FF',
+      lightWhite: '#FFFFFF',
+    },
+  })
+}

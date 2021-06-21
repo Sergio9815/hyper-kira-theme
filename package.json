@@ -1,0 +1,16 @@
+{
+  "name": "hyper-kira-theme",
+  "description": "Material and beautiful Hyper theme",
+  "version": "1.0.0",
+  "type": "theme",
+  "colors": [
+    "#57C7FF",
+    "#F25287",
+    "#A5E1AD",
+    "#FFEDA3",
+    "#A685E2"
+  ],
+  "main": "index.js",
+  "dateAdded": "1624239314124",
+  "license": "MIT"
+}
