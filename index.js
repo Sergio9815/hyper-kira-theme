@@ -28,7 +28,7 @@ module.exports.decorateConfig = (config) => {
       red: red,
       green: green,
       yellow: yellow,
-      blue: black,
+      blue: lgGrey,
       magenta: rose,
       cyan: lgBlue,
       white: white,
