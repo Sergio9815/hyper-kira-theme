@@ -20,7 +20,7 @@ module.exports.decorateConfig = (config) => {
     cursorAccentColor: black,
     foregroundColor: white,
     backgroundColor: black,
-    selectionColor: skyBlue,
+    selectionColor: white,
     borderColor: dkGrey,
     fontWeightBold: 'normal',
     colors: {
