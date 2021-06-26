@@ -2,8 +2,8 @@
 const skyBlue = '#57C7FF';
 const lgBlue = '#6DDCCF';
 const black = '#000000';
-const dkGrey = '#333';
-const lgGrey = '#555555';
+const dkGray = '#333';
+const lgGray = '#555555';
 const red = '#F56A79';
 const rose = '#F25287';
 const purple = '#A685E2';
@@ -21,18 +21,18 @@ module.exports.decorateConfig = (config) => {
     foregroundColor: white,
     backgroundColor: black,
     selectionColor: white,
-    borderColor: dkGrey,
+    borderColor: dkGray,
     fontWeightBold: 'normal',
     colors: {
       black: black,
       red: red,
       green: green,
       yellow: yellow,
-      blue: lgGrey,
+      blue: lgGray,
       magenta: rose,
       cyan: lgBlue,
       white: white,
-      lightBlack: lgGrey,
+      lightBlack: lgGray,
       lightRed: yellow,
       lightGreen: lgGreen,
       lightYellow: lgYellow,
